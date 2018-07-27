@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["plus"],"mappings":";AAAA,IAAMA,EAAO,WAAG,UAAA,OAAA,QAAA,IAAA,UAAA,IAAA,UAAA,GAAK,UAAA,OAAA,QAAA,IAAA,UAAA,IAAA,UAAA,GAAM,MAAA,WAE3BA,EAAK,GAAI","file":"src.1ac208d1.map","sourceRoot":"..\\src","sourcesContent":["const plus = (a=0, b=7) => \"AWESOME\";\r\n\r\nplus(10, 12);"]}
